@@ -16,6 +16,7 @@ _Nota: Os dados utilizados nos projeto são apenas para fins acadêmicos e exper
 ## Tópicos
 
 Projeto 01 - [Projeto de otimização de Campanhas de Marketing, baseados na interpretação dos dados em Power BI](https://github.com/alvesbruno-ds/Power-BI/blob/main/Projeto%2001%20-%20An%C3%A1lise%20de%20Marketing.pbix)
+
 Cliente:  Multinacional varejista.
 
 
