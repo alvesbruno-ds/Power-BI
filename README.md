@@ -10,7 +10,7 @@ Neste repositório você encontra os projetos desenvolvidos durante o curso "Pow
 _Nota: Os dados utilizados nos projeto são apenas para fins acadêmicos e experimentação._
 
 ## Instruções para Execução dos arquivos
-1. Faça o download dos arquivos para o seu computador.
+1. Faça o download dos arquivos para o seu computador (clicar em "view raw", no diretório do projeto).
 2. Execute os arquivos normalmente no MS Power BI.
 
 ## Tópicos
